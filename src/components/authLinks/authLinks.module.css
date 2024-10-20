@@ -1,0 +1,14 @@
+.signin{
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.signup{
+    padding: 3px 7px;
+    font-size: 14px;
+    border: 1.5px solid #dddada;
+    border-radius: 3px;
+    color: #252323;
+}

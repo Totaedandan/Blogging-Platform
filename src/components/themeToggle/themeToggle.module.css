@@ -1,0 +1,22 @@
+.container {
+    width: 43px;
+    height: 20px;
+    border-radius: 50px;
+    padding: 1px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+
+.ball {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.sun {
+    margin-right: 1px;
+}
